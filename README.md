@@ -15,10 +15,7 @@
     <label for="meeting">Meeting with</label>
 	<input id="meeting" value="">
 	<br><br>
-    <label>Other Information to Collect</label>
-    <br><br>
-    <textarea id="shortanswer" rows="5" cols="60"></textarea>
-	<br><br>
+    
     <button id="submit">submit</button>
    
     <script>
